@@ -5,12 +5,13 @@
 .tile {
   @include outer-container;
   margin-bottom: $gutter;
+  text-align: center;
   @include media($micro) {
     @include fill-parent;
   }
   @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(4);
-    @include omega(3n);
+    @include span-columns(3);
+    @include omega(4n);
   }
   .entry-date {
     @include font-size(16,no);
@@ -40,6 +41,18 @@
       &:after {
         background: rgba($base-color,0.2);
       }
+    }
+  }
+}
+
+.tile2 {
+  text-align: center;
+  img {
+    @include media($medium) {
+      width: 77%;
+    }
+    @include media($large) {
+      width: 77%;
     }
   }
 }
