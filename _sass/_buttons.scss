@@ -29,19 +29,26 @@
 }
 
 .scrolls {
-		background-color: transparent;
-		background-repeat: no-repeat;
-		background-image: url(/images/btn-small.png);
-		border-radius: 0;
-		background-size: 100% 40px;
+		// Path-9
+		border-style: solid;
+		border-width: 9px 8px 8px;
+		-moz-border-image: url(/images/btn.png) 9 8 8 repeat;
+		-webkit-border-image: url(/images/btn.png) 9 8 8 repeat;
+		-o-border-image: url(/images/btn.png) 9 8 8 repeat;
+		border-image: url(/images/btn.png) 9 8 8 fill repeat;
+
 		image-rendering: pixelated;
+		display: inline-block;
+		font-family: $alt-font;
 		color: black;
 		font-size: 15px;
-		padding: 8px 34px 12px 34px;
+		padding: 2px 22px;
+		@include font-size(14);
+		text-decoration: none;
+		@include transition(background 0.2s, border 0.2s);
 
 		&:hover {
 			color: black;
-			background-color: transparent;
 			@include transform(translateY(1px));
 		}
 	}
