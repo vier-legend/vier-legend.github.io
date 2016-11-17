@@ -1,31 +1,31 @@
 # Site navigation links
 
 - title: How to play
-  url: /getting-started/
+  url: /how-to-play/
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
   special: false
 
 - title: Media
-  url: /articles/
+  url: /media/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
   special: false
 
 - title: Devblog
-  url: /about/
+  url: /devblog/
   excerpt: "All about Skinny Bones for Jekyll."
   image: 400x250.gif
   special: false
 
 - title: Team
-  url: /about/
+  url: /team/
   excerpt: "All about Skinny Bones for Jekyll."
   image: 400x250.gif
   special: false
 
 - title: Buy
-  url: /media/
+  url: /buy/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
   special: true

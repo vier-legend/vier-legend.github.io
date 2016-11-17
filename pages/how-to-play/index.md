@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Terms & Conditions"
+title: "How to play"
 modified: 2014-08-27T15:00:35-04:00
 excerpt: "Terms & conditions, privacy policy, license, and other legal stuff you won’t read."
 image:
@@ -9,6 +9,7 @@ image:
   thumb:
 share: false
 toc: true
+permalink: /how-to-play/
 ---
 
 All content provided is for informational purposes only. The articles and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
