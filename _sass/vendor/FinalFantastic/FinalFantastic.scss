@@ -1,0 +1,12 @@
+
+
+$ff-path:        "../fonts/FinalFantastic" !default;
+
+@font-face {
+    font-family: 'FinalFantastic';
+    src: url('#{$ff-path}/finalfantastic-webfont.woff2') format('woff2'),
+         url('#{$ff-path}/finalfantastic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
