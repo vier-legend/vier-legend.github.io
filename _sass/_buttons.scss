@@ -25,7 +25,26 @@
 		// move button slightly on click
 		@include transform(translateY(1px));
 	}
+	
 }
+
+.scrolls {
+		background-color: transparent;
+		background-repeat: no-repeat;
+		background-image: url(/images/btn-small.png);
+		border-radius: 0;
+		background-size: 100% 40px;
+		image-rendering: pixelated;
+		color: black;
+		font-size: 15px;
+		padding: 8px 34px 12px 34px;
+
+		&:hover {
+			color: black;
+			background-color: transparent;
+			@include transform(translateY(1px));
+		}
+	}
 
 /*
    Inverse button .btn-inverse
