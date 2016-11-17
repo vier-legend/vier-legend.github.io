@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Video Post Test"
+author: watanabe
 date: 2014-05-31T23:14:02-04:00
 modified:
 categories: articles

@@ -2,7 +2,7 @@
 layout: article
 title: "Author Override"
 date: 2014-06-23T16:19:16-04:00
-author: billy_rick
+author: tumeo
 modified:
 categories: articles
 excerpt: "A post to test author overrides using a data file."

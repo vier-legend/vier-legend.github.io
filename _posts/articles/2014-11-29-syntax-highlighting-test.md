@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Syntax Highlighting Test"
+author: vinicius
 modified:
 categories: articles
 excerpt: "Demo post to test the various ways of using syntax highlighting."

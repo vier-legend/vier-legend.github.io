@@ -1,20 +1,29 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo.jpg
-  twitter: extravagantman
+tumeo:
+  name: William Tumeo
+  web: http://github.com/williamd1k0
+  email: tumeowiliam@gmail.com
+  bio: "Vier Legend lead programmer."
+  avatar: profile/tumeo.jpg
+  twitter: williamd1k0
   google:
-    plus: +BillyRick
+    plus: ""
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
+vinicius:
+  name: Vinícius Kleinsorgen
   email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  bio: "Orchestral music enthusiast. Composer and producer at @NovastrikeSOUND"
+  avatar: profile/vinicius.jpg
+  twitter: viniciuskps
   google:
-    plus: +CorneliusFiddlebone
+    plus: ""
+
+watanabe:
+  name: William Watanebe
+  email: cornelius@thewhip.com
+  bio: "@ns_outside's main artist and composer!"
+  avatar: profile/watanabe.jpg
+  twitter: SpriterGors
+  google:
+    plus: ""

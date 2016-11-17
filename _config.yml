@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Vier Legend"
-description: "A lightweight site starter for Jekyll"
+description: "Embark on this mythical adventure, dodge attacks and save Midgard Kingdom! A Gameboy inspired game by @NovastrikeMEDIA"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -28,9 +28,9 @@ gems:
 owner:
   name: "Novastrike"
   web: "http://novastrike.com"
-  twitter: "novastrikemedia"
+  twitter: "vierlegend"
   bio: "Media Production Experts Team For the Audio Division check @NovastrikeSOUND"
-  avatar: "ns-logo.png" # 160x160 px image for author byline
+  avatar: "profile/ns-logo.png" # 160x160 px image for author byline
   google:
     plus: ""
     ad-client: ""
