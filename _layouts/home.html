@@ -27,15 +27,26 @@
       <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
     <![endif]-->
 
+    <style>
+      .game-desc {
+        text-shadow:  black 1px 1px 4px,
+                      black -1px -1px 4px,
+                      black -1px 1px 4px,
+                      black 1px -1px 4px;
+        font-family: FinalFantastic;
+        font-size: 2.5rem !important;
+      }
+    </style>
+
   </head>
 
   <body>
 
     {% if page.image.feature %}
-    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+    <div class="page-lead" style="box-shadow: inset black 0px -10px 60px -2px; background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1><img src="{{ site.url }}/images/home/title.png" alt=""></h1>
-        <h2 style="text-shadow:black 0px 0px 5px">Embark on this mythical adventure, dodge attacks and save Midgard Kingdom!</h2>
+        <h2 class="game-desc">Embark on this mythical adventure, dodge attacks and save Midgard Kingdom!</h2>
         <a href="{{ site.url }}/#" class="scrolls">Play the demo</a><a href="/buy" class="scrolls">Buy it</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
