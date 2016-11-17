@@ -21,6 +21,12 @@
    ========================================================================== */
 
 .sliding-menu-button {
+  @include media($medium) {
+      display: none;
+  }
+  @include media($large) {
+      display: none;
+  }
   position: fixed;
   transform: translateZ(0);
   backface-visibility: hidden; /* fix scroll jank */
