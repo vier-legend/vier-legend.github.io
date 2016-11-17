@@ -4,7 +4,7 @@ title: "Video Post Test"
 author: watanabe
 date: 2014-05-31T23:14:02-04:00
 modified:
-categories: articles
+categories: devblog
 excerpt: "A post with a YouTube video."
 tags: [video]
 ads: true

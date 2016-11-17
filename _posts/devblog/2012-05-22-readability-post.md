@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Testing Readability with a Bunch of Text"
-categories: articles
+categories: devblog
 excerpt: "A ton of text to test readability."
 author: billy_rick
 tags: [sample, readability, test]

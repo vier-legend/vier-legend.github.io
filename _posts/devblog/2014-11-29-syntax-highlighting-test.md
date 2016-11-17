@@ -3,7 +3,7 @@ layout: article
 title: "Syntax Highlighting Test"
 author: vinicius
 modified:
-categories: articles
+categories: devblog
 excerpt: "Demo post to test the various ways of using syntax highlighting."
 tags: []
 image:

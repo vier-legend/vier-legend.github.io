@@ -12,7 +12,7 @@ permalink: /devblog/
 ---
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.devblog %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
