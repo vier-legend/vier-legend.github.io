@@ -8,7 +8,7 @@ tags: []
 image:
   feature:
   teaser: devblog/1/title-min.png
-  thumb: devblog/1/title-min.png
+  thumb: devblog/1/gray-shades.png
 date: 2016-12-01T22:08:14-03:00
 ---
 
