@@ -7,7 +7,7 @@ excerpt: "Hello and welcome to our first blog post for the Vier Legend devblog!"
 tags: []
 image:
   feature:
-  teaser: devblog/1/title-min.png
+  teaser: devblog/1/gray-shades.png
   thumb: devblog/1/gray-shades.png
 date: 2016-12-01T22:08:14-03:00
 ---
