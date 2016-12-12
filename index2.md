@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /homedev/
 image:
   feature: home/cover.png
 ---
